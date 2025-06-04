@@ -1,0 +1,34 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+
+#contador {
+  font-size: 1rem;
+  color: #333;
+}
+
+
+.color-box {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  margin-right: 5px;
+  border-radius: 3px;
+  vertical-align: middle;
+}
+
+
+.critico {
+  background-color: red;
+}
+.urgente {
+  background-color: orange;
+}
+.moderado {
+  background-color: gold;
+}
+.leve {
+  background-color: green;
+}
